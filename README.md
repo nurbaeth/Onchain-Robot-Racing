@@ -19,7 +19,7 @@ Create your robot, join races, and battle other players for glory — all secure
  
 ## 🎮 How to Play 
  
-1. **Register your robot**
+1. **Register your robot** 
     ```solidity
     registerRacer(speed, durability);
     ```
