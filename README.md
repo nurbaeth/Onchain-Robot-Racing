@@ -20,7 +20,7 @@ Create your robot, join races, and battle other players for glory — all secure
 ## 🎮 How to Play 
  
 1. **Register your robot** 
-    ```solidity
+    ```solidity 
     registerRacer(speed, durability);
     ```
     - Speed + Durability must be ≤ 150
