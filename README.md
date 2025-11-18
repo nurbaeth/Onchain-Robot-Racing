@@ -7,7 +7,7 @@ Create your robot, join races, and battle other players for glory — all secure
          
 ---     
        
-## 🚀 Features   
+## 🚀 Features    
    
 - 🛠️ **Custom Robots** — Register robots with unique speed & durability stats        
 - 🏁 **Smart Contract Races** — Fully onchain races using block data for fairness    
