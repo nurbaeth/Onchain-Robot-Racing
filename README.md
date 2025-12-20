@@ -6,7 +6,7 @@ Create your robot, join races, and battle other players for glory — all secure
 > ⚙️ No backend. No cheating. Just pure smart contract racing.         
          
 ---      
-       
+        
 ## 🚀 Features    
     
 - 🛠️ **Custom Robots** — Register robots with unique speed & durability stats         
