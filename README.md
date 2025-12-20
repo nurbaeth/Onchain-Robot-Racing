@@ -17,7 +17,7 @@ Create your robot, join races, and battle other players for glory — all secure
      
 ---    
   
-## 🎮 How to Play 
+## 🎮 How to Play  
  
 1. **Register your robot** 
     ```solidity 
