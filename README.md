@@ -12,7 +12,7 @@ Create your robot, join races, and battle other players for glory — all secure
 - 🛠️ **Custom Robots** — Register robots with unique speed & durability stats            
 - 🏁 **Smart Contract Races** — Fully onchain races using block data for fairness        
 - 🏆 **Race Results** — Transparent & verifiable winners         
-- 📊 **Leaderboards** — (Coming soon) Track your robot's legacy       
+- 📊 **Leaderboards** — (Coming soon) Track your robot's legacy        
 - 🔐 **100% Onchain** — No oracles, no servers, no compromises        
      
 ---    
